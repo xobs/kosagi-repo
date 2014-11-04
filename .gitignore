@@ -1,0 +1,7 @@
+/debian/files
+/debian/kosagi-repo.debhelper.log
+/debian/kosagi-repo.substvars
+/debian/kosagi-repo/
+*.swp
+*.swo
+*~

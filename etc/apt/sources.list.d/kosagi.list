@@ -1,0 +1,2 @@
+deb http://repo.novena.io/repo/ jessie main
+deb-src http://repo.novena.io/repo/ jessie main
