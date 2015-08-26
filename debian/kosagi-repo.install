@@ -1,1 +1,2 @@
 etc/apt/sources.list.d/kosagi.list
+etc/apt/trusted.gpg.d/kosagi.gpg
