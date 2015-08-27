@@ -1,3 +1,9 @@
+kosagi-repo (1.2-r1) unstable; urgency=medium
+
+  * Replaced kosagi key with signing key
+
+ -- Sean Cross <xobs@kosagi.com>  Thu, 27 Aug 2015 15:20:43 +0800
+
 kosagi-repo (1.1-r1) unstable; urgency=medium
 
   * Add new key with expiry in 2020
