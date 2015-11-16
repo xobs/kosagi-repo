@@ -1,6 +1,3 @@
-deb http://repo.novena.io/repo/ jessie main
-deb-src http://repo.novena.io/repo/ jessie main
-
 # Newer repo with a key that goes through 2020.  Signed with 4C0E70D9.
 deb http://repo.novena.io/debian/ jessie main
 deb-src http://repo.novena.io/debian/ jessie main
