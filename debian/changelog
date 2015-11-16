@@ -1,3 +1,9 @@
+kosagi-repo (1.3-r1) unstable; urgency=medium
+
+  * Remove old, expired repo
+
+ -- Sean Cross <xobs@kosagi.com>  Mon, 16 Nov 2015 14:08:13 +0800
+
 kosagi-repo (1.2-r1) unstable; urgency=medium
 
   * Replaced kosagi key with signing key
